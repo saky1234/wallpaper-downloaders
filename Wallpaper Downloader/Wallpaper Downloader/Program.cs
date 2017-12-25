@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -11,7 +11,6 @@ namespace WallpaperDownloader
     {
         // This is a wallpaper downloader in c#
         // Made on 25/12/17
-        // Took about 90 mins
         // Scrapes the images from https://www.wallpapaercave.com
         // Scraper Package: HtmlAgilityPack
         public static void Main(string[] args)
