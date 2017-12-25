@@ -14,8 +14,6 @@ namespace WallpaperDownloader
         // Took about 90 mins
         // Scrapes the images from https://www.wallpapaercave.com
         // Scraper Package: HtmlAgilityPack
-        // First Project in c#!
-        // Made by Saqlain Hussain
         public static void Main(string[] args)
         {
             
